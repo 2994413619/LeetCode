@@ -8,7 +8,7 @@ import pojo.ListNode;
  * @description ac:100%
  * @date 2019/12/17 23:27
  */
-public class LeetCode02两数相加 {
+public class LeetCode002两数相加 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode node1 = l1, node2 = l2;    //两个链表的指针
         boolean isHead = true;              //判断是否当前创建的是否为头结点
